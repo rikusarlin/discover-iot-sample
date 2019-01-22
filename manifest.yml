@@ -8,4 +8,4 @@ applications:
   memory: 48M
   instances: 1
   routes:
-  - route: eu-gb.bluemix.net
+  - route: eu-gb.mybluemix.net
