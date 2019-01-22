@@ -7,5 +7,4 @@ applications:
   path: .
   memory: 48M
   instances: 1
-  routes:
-  - route: eu-gb.mybluemix.net
+  domain: eu-gb.mybluemix.net
